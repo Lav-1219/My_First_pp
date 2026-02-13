@@ -3,3 +3,4 @@ y=20
 z=x+y
 print("value of Z", z) 
 print("value of x", x)
+print("value of y", y)
